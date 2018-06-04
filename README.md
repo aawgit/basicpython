@@ -1,2 +1,2 @@
-# basicpython
-Contains basic python examples
+
+Contains basic machine learning examples
